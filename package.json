@@ -1,0 +1,18 @@
+{
+  "name": "absolutecinema",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "dev": "nodemon ./src/server.js"
+  },
+  "author": "Fco. Messias",
+  "license": "ISC",
+  "description": "Projeto desenvolvido como desafio de estudos de Node.Js. Tem o intuito de ser uma plataforma de cadastro de filmes e informações adicionais.",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
