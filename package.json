@@ -10,7 +10,8 @@
   "license": "ISC",
   "description": "Projeto desenvolvido como desafio de estudos de Node.Js. Tem o intuito de ser uma plataforma de cadastro de filmes e informações adicionais.",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "express-async-errors": "^3.1.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
